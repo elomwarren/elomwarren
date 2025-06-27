@@ -8,12 +8,14 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-blueyellow?logo=%233776AB" height="35"/>
-    <img src="https://img.shields.io/badge/R-blue?logo=%23276DC3&logoColor=white" height="35"/>
-    <img src="https://img.shields.io/badge/SQL-yellow&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Python-blueyellow?logo=python&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/R-blue?logo=R&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/LaTeX-green?logo=latex&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/SQL-yellow" height="35"/>
     <img src="https://img.shields.io/badge/ORACLE-red" height="35"/>
-    <img src="https://img.shields.io/badge/Git-orange?logo=%23F05032&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" height="35"/>
     <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Linux-555555?logo=linux&logoColor=white" height="35"/>
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white" height="35"/>
 </p>
 
