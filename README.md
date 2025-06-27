@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Elom,
+# 👋 Hi, I’m Elom
 
 <div align="center">
-    <h3> `Statistician, Aspiring Data Scientist` </h3>
+    <h1> `Statistician, Aspiring Data Scientist` </h1>
  </div>
 
 ## 🛠️ Skills & Tools
