@@ -2,7 +2,6 @@
 
 <div align="center">
     <h3> `Statistician, Aspiring Data Scientist` </h3>
-    <img src = "https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/elom-warren-kodjoh-kpakpassou-804532207//" height = "35"/>
  </div>
 
 ## 🛠️ Skills & Tools
