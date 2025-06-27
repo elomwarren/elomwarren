@@ -1,1 +1,35 @@
-# elomwarren
+# 👋 Hi, I’m Elom, 
+<div align="center">
+    <h3> `Statistician, Aspiring Data Scientist` </h3>
+    <img src = "https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/elom-warren-kodjoh-kpakpassou-804532207//" height = "35"/>
+ </div>
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-blueyellow" height="35"/>
+    <img src="https://img.shields.io/badge/R-blue" height="35"/>
+    <img src="https://img.shields.io/badge/SQL-yellow" height="35"/>
+    <img src="https://img.shields.io/badge/ORACLE-red" height="35"/>
+    <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white" height="35"/>
+</p>
+
+## 🚀 Current Focus
+
+- 🎓 MPhil Statistics Thesis @University of Ghana
+- 🛡️ Graduate Teaching Assistant @University of Ghana
+- 🎯 Building skills for Data Science and Statistics roles
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elomwarren&show_icons=true&theme=radical" height = "300" width = "325" alt="Stats"/>
+       
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elomwarren&layout=compact&theme=radical" height = "300" width = "325" alt="Languages"/>
+</p>
+
+<div align = "center">
+    <h4> Last Update 27/06/2025 </h4>
+</div>
