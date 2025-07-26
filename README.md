@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Elom
 
 <div align="center">
-    <h1> `Statistician, Aspiring Data Scientist` </h1>
+    <h1> `Statistician, Data Scientist` </h1>
  </div>
 
 ## 🛠️ Skills & Tools
@@ -33,5 +33,5 @@
 </p>
 
 <div align = "center">
-    <h4> Last Update 27/06/2025 </h4>
+    <h4> Last Update 26/07/2025 </h4>
 </div>
