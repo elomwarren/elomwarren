@@ -20,7 +20,7 @@
 
 ## 🚀 Current Focus
 
-- 🎓 MPhil Statistics Thesis @University of Ghana
+- 🎓 Final Year MPhil Statistics Thesis @University of Ghana
 - 🛡️ Graduate Teaching Assistant @University of Ghana
 - 🎯 Building skills for Data Science and Statistics roles
 
