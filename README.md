@@ -4,7 +4,7 @@
     <h1> `Statistician, Data Scientist` </h1>
  </div>
 
-# 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-blueyellow?logo=python&logoColor=white" height="35"/>
@@ -18,28 +18,22 @@
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white" height="35"/>
 </p>
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
 - 🎯 Advancing expertise in **Statistical Modeling**, **Machine Learning**, and **Data Science**
 - 🌐 Building projects with **real-world data applications**
 
----
-
-# 💼 Experience
+## 💼 Experience
 
 - 🧑‍🏫 **Graduate Teaching Assistant** — University of Ghana *(2024-2025)*
   - Assisted in teaching graduate-level statistics courses (multivariate data analysis, probability theory, stochastic processes)
   - Provided practical applications using **R** for statistical modelling, visualisation, and data interpretation
 
----
-
-# 🎓 Education
+## 🎓 Education
 
 - 🎓 **MPhil in Statistics**, *University of Ghana* — **(2023-2025)** 
 
----
-
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elomwarren&show_icons=true&theme=radical" height = "300" width = "325" alt="Stats"/>
