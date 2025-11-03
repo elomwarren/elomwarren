@@ -4,7 +4,7 @@
     <h1> `Statistician, Data Scientist` </h1>
  </div>
 
-## 🛠️ Skills & Tools
+# 🛠️ Skills & Tools
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-blueyellow?logo=python&logoColor=white" height="35"/>
@@ -18,12 +18,14 @@
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white" height="35"/>
 </p>
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
-<ul>
-  <li>🎯 Advancing expertise in <b>Statistical Modelling</b>, <b>Machine Learning</b>, and <b>Data Science</b></li>
-  <li>🌐 Building projects with <b>real-world data applications</b></li>
-</ul>
+<div style="font-size: 1.25rem; line-height: 1.8; margin-left: 1.5rem;">
+  <ul>
+    <li>🎯 Advancing expertise in <b>Statistical Modelling</b>, <b>Machine Learning</b>, and <b>Data Science</b></li>
+    <li>🌐 Building projects with <b>real-world data applications</b></li>
+  </ul>
+</div>
 
 ## 💼 Experience
 
