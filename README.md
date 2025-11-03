@@ -20,16 +20,14 @@
 
 # 🚀 Current Focus
 
-<div style="font-size: 2rem; line-height: 2; margin-left: 1.5rem;">
-  <ul>
-    <li>🎯 Advancing expertise in <b>Statistical Modelling</b>, <b>Machine Learning</b>, and <b>Data Science</b></li>
-    <li>🌐 Building projects with <b>real-world data applications</b></li>
-  </ul>
-</div>
+
+
+- 🎯 Advancing expertise in **Statistical Modeling**, **Machine Learning**, and **Data Science**
+- 🌐 Building projects with **real-world data applications
 
 # 💼 Experience
 
-- 🧑‍🏫 **Graduate Teaching Assistant** — University of Ghana *(2024-2025)*
+- 🧑‍🏫 **Graduate Teaching Assistant** — University of Ghana **(2024-2025)**
   - Assisted in teaching graduate-level statistics courses (multivariate data analysis, probability theory, stochastic processes)
   - Provided practical applications using **R** for statistical modelling, visualisation, and data interpretation
 
