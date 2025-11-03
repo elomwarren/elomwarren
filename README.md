@@ -20,24 +20,24 @@
 
 # 🚀 Current Focus
 
-<div style="font-size: 1.25rem; line-height: 1.8; margin-left: 1.5rem;">
+<div style="font-size: 2rem; line-height: 2; margin-left: 1.5rem;">
   <ul>
     <li>🎯 Advancing expertise in <b>Statistical Modelling</b>, <b>Machine Learning</b>, and <b>Data Science</b></li>
     <li>🌐 Building projects with <b>real-world data applications</b></li>
   </ul>
 </div>
 
-## 💼 Experience
+# 💼 Experience
 
 - 🧑‍🏫 **Graduate Teaching Assistant** — University of Ghana *(2024-2025)*
   - Assisted in teaching graduate-level statistics courses (multivariate data analysis, probability theory, stochastic processes)
   - Provided practical applications using **R** for statistical modelling, visualisation, and data interpretation
 
-## 🎓 Education
+# 🎓 Education
 
 - 🎓 **MPhil in Statistics**, *University of Ghana* — **(2023-2025)** 
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elomwarren&show_icons=true&theme=radical" height = "300" width = "325" alt="Stats"/>
