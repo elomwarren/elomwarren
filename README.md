@@ -20,10 +20,8 @@
 
 # 🚀 Current Focus
 
-
-
-- 🎯 Advancing expertise in **Statistical Modeling**, **Machine Learning**, and **Data Science**
-- 🌐 Building projects with **real-world data applications
+- 🎯 Advancing expertise in **Statistical Modelling**, **Machine Learning**, and **Data Science**
+- 🌐 Building projects with **real-world data applications**
 
 # 💼 Experience
 
